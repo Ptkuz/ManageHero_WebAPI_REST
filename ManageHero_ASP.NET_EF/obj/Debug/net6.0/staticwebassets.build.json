@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "IPLdxnDW42T+ZXLVgjMzbGw0TR7W8V5sm3dGm1Y5Kt8=",
+  "Source": "ManageHero_ASP.NET_EF",
+  "BasePath": "_content/ManageHero_ASP.NET_EF",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ManageHero_ASP.NET_EF\\wwwroot",
+      "Source": "ManageHero_ASP.NET_EF",
+      "ContentRoot": "C:\\Users\\ptkuz\\source\\repos\\ManageHero_ASP.NET_EF\\ManageHero_ASP.NET_EF\\wwwroot\\",
+      "BasePath": "_content/ManageHero_ASP.NET_EF",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ptkuz\\source\\repos\\ManageHero_ASP.NET_EF\\ManageHero_ASP.NET_EF\\wwwroot\\index.html",
+      "SourceId": "ManageHero_ASP.NET_EF",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ptkuz\\source\\repos\\ManageHero_ASP.NET_EF\\ManageHero_ASP.NET_EF\\wwwroot\\",
+      "BasePath": "_content/ManageHero_ASP.NET_EF",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\ptkuz\\source\\repos\\ManageHero_ASP.NET_EF\\ManageHero_ASP.NET_EF\\wwwroot\\JavaScript.js",
+      "SourceId": "ManageHero_ASP.NET_EF",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ptkuz\\source\\repos\\ManageHero_ASP.NET_EF\\ManageHero_ASP.NET_EF\\wwwroot\\",
+      "BasePath": "_content/ManageHero_ASP.NET_EF",
+      "RelativePath": "JavaScript.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\JavaScript.js"
+    }
+  ]
+}
